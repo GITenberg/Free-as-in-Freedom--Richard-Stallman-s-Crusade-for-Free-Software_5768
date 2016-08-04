@@ -1,0 +1,27 @@
+_repo: Free-as-in-Freedom--Richard-Stallman-s-Crusade-for-Free-Software_5768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Sam
+    birthdate: 1969
+    gutenberg_agent_id: '1868'
+    url: http://www.gutenberg.org/2009/agents/1868
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5768'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Computer programmers -- United States -- Biography'
+- !lcsh 'Open source software'
+- !lcsh 'Computer hackers -- United States -- Biography'
+- !lcsh 'Stallman, Richard'
+- !lcsh 'Free Software Foundation (Cambridge, Mass.)'
+- !lcc 'QA'
+- GITenberg
+title: 'Free as in Freedom: Richard Stallman''s Crusade for Free Software'
+url: http://www.gutenberg.org/ebooks/5768
