@@ -1,5 +1,8 @@
 _repo: Free-as-in-Freedom--Richard-Stallman-s-Crusade-for-Free-Software_5768
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Williams, Sam
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '1868'
     url: http://www.gutenberg.org/2009/agents/1868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5768#Free-as-in-Freedom--Richard-Stallman-s-Crusade-for-Free-Software
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
